@@ -1,0 +1,21 @@
+home:
+  vegetta777:
+    planetavegetta:
+      x: 80
+      y: 60
+      z: -270
+player_settings:
+  vegetta777:
+    global_talk: true
+    spawns:
+      survival:
+        x: 20
+        y: 11
+        z: -8880
+world:
+  lobby:
+    doublejump: true
+    survival: false
+  survival:
+    doublejump: false
+    survival: true

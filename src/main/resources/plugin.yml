@@ -1,0 +1,24 @@
+name: FPQHTL
+version: ${project.version}
+main: me.sandias98.fpqhtl.MiPlugin
+api-version: 1.13
+prefix: FPQHTL
+authors: [Sandias98]
+description: First Pluguin Que Hace Todo LOL
+website: https://binarysandia04.github.io/
+commands:
+  survival:
+    description: Survival Sandia's commands
+    usage: /survival
+  settings:
+    description: player settings
+    usage: /settings
+  sv:
+    description: Server commands, like /sv tp test
+    usage: /sv
+  lobby:
+    description: Teleports to the lobby world
+    usage: /lobby
+  worlds:
+    description: Worlds menu
+    usage: /worlds
